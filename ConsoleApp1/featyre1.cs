@@ -8,6 +8,6 @@ namespace ConsoleApp1
 {
     internal class featyre1
     {
-        public int i = 3;
+        public var i = 3;
     }
 }
